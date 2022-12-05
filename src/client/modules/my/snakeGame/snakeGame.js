@@ -51,6 +51,7 @@ export default class SnakeGame extends LightningElement {
         }
 
         if(this.tail.includes(`${this.xHead}:${this.yHead}`)){
+            // eslint-disable-next-line no-alert
             alert('Game Over');
             this.tail=[];
             this.xHead=0;
@@ -101,8 +102,7 @@ export default class SnakeGame extends LightningElement {
         let xFood=Math.floor(Math.random()*this.xMax);
         let yFood=Math.floor(Math.random()*this.yMax);
 
-        let foodPosIndex=this.gameBlocks.findIndex
-        (x=>x.id===`${xFood}:${yFood}`);
+        let foodPosIndex=this.gameBlocks.findIndex(x=>x.id===`${xFood}:${yFood}`);
         this.gameBlocks[foodPosIndex].food=true;
         this.gameBlocks[foodPosIndex].class='food';
     }
@@ -119,7 +119,7 @@ export default class SnakeGame extends LightningElement {
             for(let y=0;y<this.yMax;y++){
                 for(let x=0;x<this.xMax;x++){
                     let obj;
-                    if(x==0 && y==0){
+                    if(x===0 && y===0){
                         obj={id: `${x}:${y}`, snake: true, food: false, class:'snake'};
                     }else{
                         obj={id: `${x}:${y}`, snake: false, food: false, class:''};
