@@ -1,0 +1,557 @@
+{
+    "3601776644": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "ef8ad4b63f"
+        }
+    },
+    "ee5d532885": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "9e0aab6f89"
+        }
+    },
+    "0f04672f49": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": ""
+        }
+    },
+    "431578a9f7": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "19741f1d0e"
+        }
+    },
+    "8e59e435fc": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "39b0a50f6b"
+        }
+    },
+    "e124bd88db": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "dc3a3015ab"
+        }
+    },
+    "925d4a6b64": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "852a848d48"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        }
+    },
+    "6f7d63efbb": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "cb86c4609d"
+        }
+    },
+    "8626d49c50": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "2a6bc8e676"
+        }
+    },
+    "2cc6119e66": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "df26ef7c60"
+        }
+    },
+    "d076796204": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "7313a78d0e"
+        }
+    },
+    "9f8e934b3e": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "a3dff0aa8d"
+        }
+    },
+    "572fb5dbc7": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "1918939fad"
+        }
+    },
+    "cd2a9a952b": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "31f851265c"
+        }
+    },
+    "42b93ac110": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "f9d0a82a03"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "bb2871a40d"
+        }
+    },
+    "4eb2e5f2f1": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "b01b583e00"
+        }
+    },
+    "28ceb9c243": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "2c2fe91b7d"
+        }
+    },
+    "2061242aa7": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "f736bf61d2"
+        }
+    },
+    "f68d811365": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "694283de7d"
+        }
+    },
+    "7155befd26": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "3f56878fd5"
+        }
+    },
+    "592d9abf2a": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "f9d0a82a03"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "392a7d4715"
+        }
+    },
+    "6a6a4ba349": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "392a7d4715"
+        }
+    },
+    "96a669b168": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "87164e3392"
+        }
+    },
+    "a8c788b5a9": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "f9d0a82a03"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "13a671474b"
+        }
+    },
+    "84f40748e6": {
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        },
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "e3026e9996"
+        }
+    },
+    "8623a13fde": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "05d9aaef4f"
+        }
+    },
+    "0b94e84787": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "789710fcf8"
+        }
+    },
+    "1f16778faf": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "034710a451"
+        }
+    },
+    "7022973f0c": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "f9d0a82a03"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "c39577832b"
+        }
+    },
+    "3f6e3a30f8": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "c1bdfebaa1"
+        }
+    },
+    "703f23cb8d": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "1d0e383d52"
+        }
+    },
+    "f8199d0ee6": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "d6c69de28d"
+        }
+    },
+    "a5147f6f38": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "f11fcc200f"
+        }
+    },
+    "2cb36fb9f3": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "76ba944606"
+        }
+    },
+    "6fb3581f95": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "c094ff8be1"
+        }
+    },
+    "5de89bb8c8": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "533a2f7f62"
+        }
+    },
+    "ff10bf5077": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": ""
+        }
+    },
+    "99bbcc8b13": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "f4dc5bfa31"
+        }
+    },
+    "abe7da3184": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "a2e510a2d2"
+        }
+    },
+    "cee73bb9ed": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "63e6cbc754"
+        }
+    },
+    "d57e7c6518": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "49c06ea4d4"
+        }
+    },
+    "faca6edb31": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "c7fbd7d302"
+        }
+    },
+    "aa31a0fe1f": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "7b09b5da1e"
+        }
+    },
+    "b6fd54fdb3": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "df80fce299"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "7857700d2b"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        }
+    },
+    "2bdde11248": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "f9d0a82a03"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "6c1e0cfa1c"
+        }
+    },
+    "2fc6963b4d": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "638a248ab9"
+        },
+        "component://localdevserver/home@en-IN": {
+            "dev": "d6a6de301f"
+        }
+    },
+    "1f84656362": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "cac2ab6528"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "638a248ab9"
+        }
+    },
+    "a464f30212": {
+        "component://@webruntime/app@en-IN": {
+            "dev": "e0dd58b918"
+        },
+        "component://localdevserver/preview@en-IN": {
+            "dev": "9dfc3a8207"
+        },
+        "component://c/snakeGame@en-IN": {
+            "dev": "638a248ab9"
+        }
+    }
+}

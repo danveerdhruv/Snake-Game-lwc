@@ -1,0 +1,12 @@
+<template>
+    <lightning-card title="For Each Demo">
+        <template if:true={Campaigns.data}>
+            <template for:each={Campaigns.data} for:item='Campaign'>
+                <h3 key={Campaign.Id}>{Campaign.Name}</h3>
+            </template>
+        </template>
+        <template if:true={Campaigns.error}>
+            {Campaigns.error}
+        </template>
+    </lightning-card>
+</template>
